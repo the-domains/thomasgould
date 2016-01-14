@@ -4,7 +4,7 @@
         <description><![CDATA[thomasgould]]></description>
         <link>https://thegrid.ai/thomasgould/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 17:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jan 2016 17:15:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thomasgould/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/thomasgould/bab50b9f-22b8-4d5f-bcb7-a656b03a2fe2/index.html</link>
             <guid isPermaLink="false">bab50b9f-22b8-4d5f-bcb7-a656b03a2fe2</guid>
             <pubDate>Thu, 14 Jan 2016 17:14:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Review: Thomas Adès Calls for Complexity at City Center]]></title>
+            <description><![CDATA[<article><h1>Review: Thomas Adès Calls for Complexity at City Center</h1><p>When did dance audiences last see and hear a composer perform his own works with the revelatory mastery shown by Thomas Adès? Because the quadruple bill of his works "Thomas Adès: Concentric Paths - Movements in Music" came over the weekend to New York City Center, the mind flew to Stravinsky.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/caf82632d7ffb8fef53c7a88961e130aa4f03a50.jpg"></article>]]></description>
+            <link>http://www.nytimes.com/2015/11/23/arts/dance/review-thomas-ades-calls-for-complexity-at-city-center.html?_r=0</link>
+            <guid isPermaLink="false">c4b437ef-e891-4372-bbc2-a2c7b09f676d</guid>
+            <pubDate>Thu, 14 Jan 2016 17:15:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
