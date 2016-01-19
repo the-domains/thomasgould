@@ -17,23 +17,23 @@ keywords:
   - gould
   - violin
 description: "Ivan Hewett finds renditions of three pieces by minimalist masters lingering long in the mind Minimalism - an unlovely word, but it embraces all kinds of musical wonders, if you're willing to stretch the word beyond its original meaning. That's been the message of the year-long Minimalism Unwrapped series at Kings Place."
-datePublished: '2016-01-14T17:15:24.046Z'
-dateModified: '2016-01-14T17:13:47.479Z'
+datePublished: '2016-01-19T16:12:47.960Z'
+dateModified: '2016-01-19T16:12:20.107Z'
 author:
   - name: 'Ivan Hewett,'
     url: null
     avatar: {}
 related: []
 app_links: []
-title: "Aurora Orchestra, Kings Place, review: 'new light cast on familiar music'"
+title: 'REVIEW // Aurora Orchestra and Nicholas Collon, Kings Place'
+sourcePath: _posts/2016-01-14-aurora-orchestra-kings-place-review-new-light-cast-on-fa.md
+published: true
 authors: []
 publisher:
   name: The Telegraph
   domain: www.telegraph.co.uk
   url: 'http://www.telegraph.co.uk'
   favicon: 'http://www.telegraph.co.uk/etc/designs/telegraph/core/clientlibs/themes/cars/img/favicon/icon_32x32.png'
-sourcePath: _posts/2016-01-14-aurora-orchestra-kings-place-review-new-light-cast-on-fa.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
