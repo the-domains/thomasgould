@@ -16,9 +16,9 @@ keywords:
   - aurora
   - piano
   - programme
-description: "Strong, characterful playing: Thomas Gould and James Campbell of Aurora Orchestra One down, 26 to go. \"Mozart's Piano\" is a series of concerts by the Aurora Orchestra at Kings Place, based around a complete cycle of Mozart's piano concertos. It started last night, and will reach its conclusion in 2020."
-datePublished: '2016-01-19T16:18:41.450Z'
-dateModified: '2016-01-19T16:18:36.705Z'
+description: "Strong, characterful playing: Thomas Gould and Jamie Campbell of Aurora Orchestra One down, 26 to go. \"Mozart's Piano\" is a series of concerts by the Aurora Orchestra at Kings Place, based around a complete cycle of Mozart's piano concertos. It started last night, and will reach its conclusion in 2020."
+datePublished: '2016-01-19T16:41:42.101Z'
+dateModified: '2016-01-19T16:41:38.940Z'
 author:
   - name: Sebastian Scotney
     url: 'http://www.theartsdesk.com/users/sebastian-scotney'
@@ -38,4 +38,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Mozart's Piano 1&amp;comma; Butt&amp;comma; Aurora Orchestra&amp;comma; Kings Place</h1><p>Strong&amp;comma; characterful playing&amp;colon; Thomas Gould and James Campbell of Aurora Orchestra One down&amp;comma; 26 to go&amp;period; "Mozart's Piano" is a series of concerts by the Aurora Orchestra at Kings Place&amp;comma; based around a complete cycle of Mozart's piano concertos&amp;period; It started last night&amp;comma; and will reach its conclusion in 2020&amp;period;</p><img src="http://www.theartsdesk.com/sites/default/files/images/stories/CLASSICAL/sebastian_scotney/John%20Barber_credit%20David%20Barbour.jpg" /></article>
+<article style=""><h1>REVIEW // Aurora Orchestra and John Butt at Kings Place</h1><p>Strong, characterful playing: Thomas Gould and James Campbell of Aurora Orchestra One down, 26 to go. "Mozart's Piano" is a series of concerts by the Aurora Orchestra at Kings Place, based around a complete cycle of Mozart's piano concertos. It started last night, and will reach its conclusion in 2020.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/234bb0b550eac15020e17c42357929f35b8c714a.jpg" /></article>
