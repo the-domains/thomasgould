@@ -17,8 +17,8 @@ keywords:
   - ballet
   - stravinsky
 description: 'When did dance audiences last see and hear a composer perform his own works with the revelatory mastery shown by Thomas Adès? Because the quadruple bill of his works "Thomas Adès: Concentric Paths - Movements in Music" came over the weekend to New York City Center, the mind flew to Stravinsky.'
-datePublished: '2016-01-19T16:16:52.187Z'
-dateModified: '2016-01-19T16:14:57.248Z'
+datePublished: '2016-01-19T16:17:43.211Z'
+dateModified: '2016-01-19T16:17:36.852Z'
 author:
   - name: ALASTAIR MACAULAY
     url: 'http://topics.nytimes.com/top/reference/timestopics/people/m/alastair_macaulay/index.html'
@@ -37,7 +37,7 @@ app_links:
     type: ipad
     app_store_id: '357066198'
     app_name: NYTimes
-title: "REVIEW // Orchestra of St Luke's and Thomas Ades"
+title: "REVIEW // Orchestra of St Luke's and Thomas Adès"
 sourcePath: _posts/2016-01-14-review-thomas-ades-calls-for-complexity-at-city-center.md
 published: true
 authors: []
