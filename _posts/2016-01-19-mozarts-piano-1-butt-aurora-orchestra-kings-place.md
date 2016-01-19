@@ -17,7 +17,7 @@ keywords:
   - piano
   - programme
 description: "Strong, characterful playing: Thomas Gould and Jamie Campbell of Aurora Orchestra One down, 26 to go. \"Mozart's Piano\" is a series of concerts by the Aurora Orchestra at Kings Place, based around a complete cycle of Mozart's piano concertos. It started last night, and will reach its conclusion in 2020."
-datePublished: '2016-01-19T16:41:42.101Z'
+datePublished: '2016-01-19T16:41:42.104Z'
 dateModified: '2016-01-19T16:41:38.940Z'
 author:
   - name: Sebastian Scotney
