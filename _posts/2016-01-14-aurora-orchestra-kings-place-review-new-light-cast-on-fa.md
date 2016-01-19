@@ -17,7 +17,7 @@ keywords:
   - gould
   - violin
 description: "Ivan Hewett finds renditions of three pieces by minimalist masters lingering long in the mind Minimalism - an unlovely word, but it embraces all kinds of musical wonders, if you're willing to stretch the word beyond its original meaning. That's been the message of the year-long Minimalism Unwrapped series at Kings Place."
-datePublished: '2016-01-19T16:12:47.960Z'
+datePublished: '2016-01-19T16:12:47.966Z'
 dateModified: '2016-01-19T16:12:20.107Z'
 author:
   - name: 'Ivan Hewett,'
