@@ -17,20 +17,20 @@ keywords:
   - woodwind
   - sounded
 description: 'January 18, 2016 United Kingdom JC Bach, Mozart, CPE Bach, and JS Bach: Aurora Orchestra, John Butt (harpsichord/director). Hall One, Kings Place, London, 16.1.2016.'
-datePublished: '2016-01-19T16:11:29.039Z'
-dateModified: '2016-01-19T16:10:20.432Z'
+datePublished: '2016-01-19T16:18:02.974Z'
+dateModified: '2016-01-19T16:17:59.116Z'
 author: []
 related: []
 app_links: []
 title: "A Stylish Start to the Aurora Orchestra's Exploration of Mozart's Piano Concertos"
+sourcePath: _posts/2016-01-19-a-stylish-start-to-the-aurora-orchestras-exploration-of-moz.md
+published: true
 authors: []
 publisher:
   name: Seenandheard-international
   domain: seenandheard-international.com
   url: 'http://seenandheard-international.com'
   favicon: 'http://seenandheard-international.com/wp-content/uploads/2015/11/sandhlogo1.jpg'
-sourcePath: _posts/2016-01-19-a-stylish-start-to-the-aurora-orchestras-exploration-of-moz.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
