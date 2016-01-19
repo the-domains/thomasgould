@@ -17,7 +17,7 @@ keywords:
   - ballet
   - stravinsky
 description: 'When did dance audiences last see and hear a composer perform his own works with the revelatory mastery shown by Thomas Adès? Because the quadruple bill of his works "Thomas Adès: Concentric Paths - Movements in Music" came over the weekend to New York City Center, the mind flew to Stravinsky.'
-datePublished: '2016-01-19T16:16:52.179Z'
+datePublished: '2016-01-19T16:16:52.187Z'
 dateModified: '2016-01-19T16:14:57.248Z'
 author:
   - name: ALASTAIR MACAULAY
