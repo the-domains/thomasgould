@@ -17,12 +17,12 @@ keywords:
   - luxurious
   - archive
 description: 'November 2015 - Andrew McCormack and Jason Yarde, plus guests, impress John Watson with inspired duo work and a first for the Pizza Express Jazz Club'
-datePublished: '2016-01-14T17:40:14.777Z'
-dateModified: '2016-01-14T17:40:03.704Z'
+datePublished: '2016-01-19T16:13:47.819Z'
+dateModified: '2016-01-19T16:13:44.788Z'
 author: []
 related: []
 app_links: []
-title: 'LJF 2015: McCormack and Yarde'
+title: REVIEW // London Jazz Festival
 sourcePath: _posts/2016-01-14-ljf-2015-mccormack-and-yarde.md
 published: true
 authors: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Review: LJF 2015: McCormack and Yarde</h1><p>November 2015 - Andrew McCormack and Jason Yarde, plus guests, impress John Watson with inspired duo work and a first for the Pizza Express Jazz Club</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b562f82a7edae37ed80e7ab91678dabed72df3a.jpg" /></article>
+<article style=""><h1>REVIEW // London Jazz Festival 2015</h1><p>November 2015 - Andrew McCormack and Jason Yarde, plus guests, impress John Watson with inspired duo work and a first for the Pizza Express Jazz Club</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4b62147ef1c3d4346f542bcd707cc628c5dc126.jpg" /></article>
