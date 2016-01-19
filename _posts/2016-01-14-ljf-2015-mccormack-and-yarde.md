@@ -17,8 +17,8 @@ keywords:
   - luxurious
   - archive
 description: 'November 2015 - Andrew McCormack and Jason Yarde, plus guests, impress John Watson with inspired duo work and a first for the Pizza Express Jazz Club'
-datePublished: '2016-01-19T16:13:47.819Z'
-dateModified: '2016-01-19T16:13:44.788Z'
+datePublished: '2016-01-19T16:42:46.777Z'
+dateModified: '2016-01-19T16:13:50.695Z'
 author: []
 related: []
 app_links: []
