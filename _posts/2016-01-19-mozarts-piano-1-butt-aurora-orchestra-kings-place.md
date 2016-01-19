@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Sebastian Scotney
-    url: 'http://www.theartsdesk.com/users/sebastian-scotney'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://www.theartsdesk.com'
-  name: Theartsdesk
-  favicon: 'http://www.theartsdesk.com/sites/default/files/artsdesk_favicon_3.ico'
-  domain: www.theartsdesk.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.theartsdesk.com/classical-music/mozarts-piano-1-butt-aurora-orchestra-kings-place'
+inLanguage: en
+starred: false
 keywords:
   - mozart
   - bach
@@ -21,17 +17,23 @@ keywords:
   - piano
   - programme
 description: "Strong, characterful playing: Thomas Gould and James Campbell of Aurora Orchestra One down, 26 to go. \"Mozart's Piano\" is a series of concerts by the Aurora Orchestra at Kings Place, based around a complete cycle of Mozart's piano concertos. It started last night, and will reach its conclusion in 2020."
-inLanguage: en
+datePublished: '2016-01-19T16:18:40.991Z'
+dateModified: '2016-01-19T16:18:36.705Z'
+author:
+  - name: Sebastian Scotney
+    url: 'http://www.theartsdesk.com/users/sebastian-scotney'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.theartsdesk.com/classical-music/mozarts-piano-1-butt-aurora-orchestra-kings-place'
-title: "Mozart's Piano 1, Butt, Aurora Orchestra, Kings Place"
-datePublished: '2016-01-19T16:11:28.871Z'
-dateModified: '2016-01-19T16:05:39.248Z'
+title: REVIEW // Aurora Orchestra and John Butt at Kings Place
 sourcePath: _posts/2016-01-19-mozarts-piano-1-butt-aurora-orchestra-kings-place.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Theartsdesk
+  domain: www.theartsdesk.com
+  url: 'http://www.theartsdesk.com'
+  favicon: 'http://www.theartsdesk.com/sites/default/files/artsdesk_favicon_3.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
