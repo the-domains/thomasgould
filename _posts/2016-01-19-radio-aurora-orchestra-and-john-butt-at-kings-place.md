@@ -17,7 +17,7 @@ keywords:
   - external
   - programme
 description: 'John Butt directs a programme of music by JC, CPE and JS Bach and Mozart.'
-datePublished: '2016-01-19T16:42:37.471Z'
+datePublished: '2016-01-19T16:42:37.462Z'
 dateModified: '2016-01-19T16:42:34.227Z'
 author: []
 related: []
