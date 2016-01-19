@@ -1,14 +1,10 @@
 ---
-author:
-  - name: ALASTAIR MACAULAY
-    url: 'http://topics.nytimes.com/top/reference/timestopics/people/m/alastair_macaulay/index.html'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://www.nytimes.com'
-  name: Nytimes
-  favicon: 'http://static01.nyt.com/favicon.ico'
-  domain: www.nytimes.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.nytimes.com/2015/11/23/arts/dance/review-thomas-ades-calls-for-complexity-at-city-center.html?_r=0'
+inLanguage: en
+starred: false
 keywords:
   - dance
   - pite
@@ -21,7 +17,13 @@ keywords:
   - ballet
   - stravinsky
 description: 'When did dance audiences last see and hear a composer perform his own works with the revelatory mastery shown by Thomas Adès? Because the quadruple bill of his works "Thomas Adès: Concentric Paths - Movements in Music" came over the weekend to New York City Center, the mind flew to Stravinsky.'
-inLanguage: en
+datePublished: '2016-01-19T16:16:52.130Z'
+dateModified: '2016-01-19T16:14:57.248Z'
+author:
+  - name: ALASTAIR MACAULAY
+    url: 'http://topics.nytimes.com/top/reference/timestopics/people/m/alastair_macaulay/index.html'
+    avatar: {}
+related: []
 app_links:
   - url: 'nytimes://reader/id/100000004050823'
     type: android
@@ -35,15 +37,15 @@ app_links:
     type: ipad
     app_store_id: '357066198'
     app_name: NYTimes
-isBasedOnUrl: 'http://www.nytimes.com/2015/11/23/arts/dance/review-thomas-ades-calls-for-complexity-at-city-center.html?_r=0'
-title: 'Review: Thomas Adès Calls for Complexity at City Center'
-datePublished: '2016-01-14T17:15:23.674Z'
-dateModified: '2016-01-14T17:08:44.413Z'
+title: "REVIEW // Orchestra of St Luke's and Thomas Ades"
 sourcePath: _posts/2016-01-14-review-thomas-ades-calls-for-complexity-at-city-center.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Nytimes
+  domain: www.nytimes.com
+  url: 'http://www.nytimes.com'
+  favicon: 'http://static01.nyt.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
