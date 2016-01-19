@@ -1,40 +1,40 @@
-name: thomasgould
 favicon: null
-layout_spectrum: 0.3859928615856916
-typography_spectrum: 0.336174571653828
+name: thomasgould
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
 color:
+  saturation: 0.5507687313947827
+  brandStrength: 0.379331
+  rhythmicContrast: 0.3416192068252712
   brandColors:
     - '#2c3640'
     - '#dcdec1'
     - '#cabb99'
     - '#866b5e'
     - '#a48973'
-  brandStrength: 0.379331
   lightness: 0.6981624788604677
-  saturation: 0.5507687313947827
-  rhythmicContrast: 0.3416192068252712
-purpose: []
+typography_spectrum: 0.336174571653828
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.6923536
+analytics:
+  twitter: null
+  google: null
+  facebook: null
