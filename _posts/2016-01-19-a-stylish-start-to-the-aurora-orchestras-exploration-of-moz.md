@@ -17,7 +17,7 @@ keywords:
   - woodwind
   - sounded
 description: 'January 18, 2016 United Kingdom JC Bach, Mozart, CPE Bach, and JS Bach: Aurora Orchestra, John Butt (harpsichord/director). Hall One, Kings Place, London, 16.1.2016.'
-datePublished: '2016-01-19T16:18:02.974Z'
+datePublished: '2016-01-19T16:18:03.012Z'
 dateModified: '2016-01-19T16:17:59.116Z'
 author: []
 related: []
