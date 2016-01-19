@@ -17,7 +17,7 @@ keywords:
   - bychkov
   - eugene
 description: "Before the premiere of Eugene Onegin in 1879, Tchaikovsky begged the chorus not to behave like sheep, the conductor not to be a machine, the production not to be too opulent. Royal Opera's 2013 staging directed by Kasper Holten, now revived and reworked after performances in Turin and Australia, obeys these requests to a fair degree."
-datePublished: '2016-01-19T16:43:36.525Z'
+datePublished: '2016-01-19T16:43:36.635Z'
 dateModified: '2016-01-19T16:43:31.697Z'
 author:
   - name: Fiona Maddocks
