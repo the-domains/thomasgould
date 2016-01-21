@@ -10,12 +10,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.5507687313947827
@@ -33,7 +33,7 @@ cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.6923536
+layout_spectrum: 0.797491
 analytics:
   twitter: null
   google: null
