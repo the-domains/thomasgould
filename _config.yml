@@ -1,5 +1,4 @@
-favicon: null
-name: thomasgould
+layout_spectrum: 0.797491
 opengraph:
   image: null
   type: null
@@ -19,7 +18,7 @@ collections:
 purpose: []
 color:
   saturation: 0.5507687313947827
-  brandStrength: 0.495221
+  brandStrength: 0
   lightness: 0.6981624788604677
   brandColors:
     - '#2c3640'
@@ -33,8 +32,9 @@ cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.797491
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: thomasgould
